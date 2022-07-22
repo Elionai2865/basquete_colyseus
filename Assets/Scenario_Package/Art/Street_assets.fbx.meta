@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 315015e2554caec4f95b985ae263fc3b
+timeCreated: 1498581920
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AC_VENTS01
+    100002: AC_VENTS02
+    100004: Anteena01
+    100006: Anteena02
+    100008: Anteena03
+    100010: ElectircPole
+    100012: Footpath
+    100014: Generator01
+    100016: Generator02
+    100018: Hoarding
+    100020: Hoarding1
+    100022: Net2
+    100024: Road
+    100026: Road1
+    100028: Rod
+    100030: //RootNode
+    100032: Tele_1
+    100034: Road2
+    400000: AC_VENTS01
+    400002: AC_VENTS02
+    400004: Anteena01
+    400006: Anteena02
+    400008: Anteena03
+    400010: ElectircPole
+    400012: Footpath
+    400014: Generator01
+    400016: Generator02
+    400018: Hoarding
+    400020: Hoarding1
+    400022: Net2
+    400024: Road
+    400026: Road1
+    400028: Rod
+    400030: //RootNode
+    400032: Tele_1
+    400034: Road2
+    2300000: AC_VENTS01
+    2300002: AC_VENTS02
+    2300004: Anteena01
+    2300006: Anteena02
+    2300008: Anteena03
+    2300010: ElectircPole
+    2300012: Footpath
+    2300014: Generator01
+    2300016: Generator02
+    2300018: Hoarding
+    2300020: Hoarding1
+    2300022: Net2
+    2300024: Road
+    2300026: Road1
+    2300028: Rod
+    2300030: Tele_1
+    2300032: Road2
+    3300000: AC_VENTS01
+    3300002: AC_VENTS02
+    3300004: Anteena01
+    3300006: Anteena02
+    3300008: Anteena03
+    3300010: ElectircPole
+    3300012: Footpath
+    3300014: Generator01
+    3300016: Generator02
+    3300018: Hoarding
+    3300020: Hoarding1
+    3300022: Net2
+    3300024: Road
+    3300026: Road1
+    3300028: Rod
+    3300030: Tele_1
+    3300032: Road2
+    4300000: Footpath
+    4300002: Tele_1
+    4300004: ElectircPole
+    4300006: Generator02
+    4300008: Anteena01
+    4300010: Anteena02
+    4300012: Anteena03
+    4300014: Generator01
+    4300016: AC_VENTS01
+    4300018: Road
+    4300020: Road1
+    4300022: AC_VENTS02
+    4300024: Hoarding
+    4300026: Hoarding1
+    4300028: Net2
+    4300030: Rod
+    4300032: Road2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
